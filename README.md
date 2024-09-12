@@ -1,7 +1,12 @@
 # Accounts
-
+- [Wantedly](https://www.wantedly.com/id/sho_ushikubo_cw)
+- [X(旧: Twitter)](https://x.com/sudo5in5k)
+- [YOUTRUST](https://youtrust.jp/users/ussy0516)
+- [Qiita](https://qiita.com/sudo5in5k)
 
 # Careers by year (descending)
+2017年からAndroidエンジニアとしてキャリアをスタートしました
+いまはエンジニアリングマネージャーをしています
 
 ## 株式会社kubell (旧: Chatwork株式会社) (2023-)
 エンジニアリングマネージャーをしています
@@ -86,3 +91,7 @@
 - 機械学習・データマイニングを大学院で専攻
 - ヒトや動物の生体データ(血液のデータ、活動データ etc...)を用いて疾病の予測を主に行い、国際学会に3回ほど参加
 - うち1プロジェクトは[農林水産省の「革新的技術開発・緊急展開事業」](https://news.mynavi.jp/techplus/article/20160808-a312/)に採択
+
+# Contact
+上記Accountsからお願いします
+スカウトの場合、Androidの技術に閉じたプレイヤーやリーダーとしてはお受けできませんのでその点ご了承ください
