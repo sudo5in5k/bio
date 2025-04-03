@@ -1,5 +1,14 @@
 # Accounts
 
+- [X](https://x.com/sudo5in5k)
+- [GitHub](https://github.com/sudo5in5k)
+- [Speaker Deck](https://speakerdeck.com/sudo5in5k)
+- [Qiita](https://qiita.com/sudo5in5k)
+- [note](https://note.com/sudo5in5k)
+- [wantedly](https://www.wantedly.com/id/sho_ushikubo_cw)
+- [YOUTRUST](https://youtrust.jp/users/ussy0516)
+
+
 # Careers by year (descending)
 
 ## 株式会社kubell (旧: Chatwork株式会社) (2023-)
